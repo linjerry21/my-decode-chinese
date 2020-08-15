@@ -1,0 +1,288 @@
+{
+    "words": [
+        {
+            "id": 1,
+            "word_order": 1,
+            "hanzi": "è€ƒå·",
+            "pinyin": "kÇŽo juÃ n",
+            "measure_word": "ä»½/å¼µ",
+            "meaning": "exam paper, test booklet",
+            "word_class": "N",
+            "audio": "kao3_juan4.mp3",
+            "sentence": {
+                "hanzi": "jÄ«n tiÄn yÇ’u 20 gÃ¨ rÃ©n lÃ¡i kÇŽo shÃ¬ ï¼Œ qÇng zhÇ”n bÃ¨i 20 fÃ¨n kÇŽo juÇŽn ã€‚",
+                "pinyin": "ä»Šå¤©æœ‰20å€‹äººä¾†è€ƒè©¦ï¼Œè«‹æº–å‚™20ä»½è€ƒå·ã€‚",
+                "meaning": "Please prepare 20 exam paper, there are 20 people today."
+            },
+            "characters": [
+                {
+                    "id": 1,
+                    "hanzi": "è€ƒ",
+                    "pinyin": "kÇŽo",
+                    "pinyin_tone": 3,
+                    "stroke" : 6,
+                    "meaning": "to test/to examine",
+                    "radical": {
+                        "hanzi": "è€‚",
+                        "variation": [
+                            "è€"
+                        ],
+                        "pinyin": "lÇŽo",
+                        "pinyin_tone": 3,
+                        "meaning": "old"
+                    },
+                    "component": [
+                        {
+                            "hanzi": "ä¸‚",
+                            "pinyin": "kÇŽo",
+                            "pinyin_tone": 3,
+                            "meaning": "breath' or 'sigh' component in Chinese characters"
+                        }
+                    ],
+                    "etymology_note": {
+                        "character_decomposition": "Originally, è€ƒ and è€ (old) were the same character-- it takes the shape of old person holding a supporting stick.",
+                        "decomposition_notes": "Ideograph: Old è€‚. ä¸‚ provides the sound.",
+                        "image":[
+                            {
+                               "file_name": "考_1.png"
+                            },
+                            {
+                               "file_name": "考_2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "hanzi": "å·",
+                    "pinyin": "juÃ n",
+                    "pinyin_tone": 4,
+                    "stroke" : 8,
+                    "meaning": "scroll/examination paper/chapter",
+                    "radical": {
+                        "hanzi": "ã”¾",
+                        "variation": [
+                            "å©"
+                        ],
+                        "pinyin": "jiÃ©",
+                        "pinyin_tone": 2,
+                        "meaning": "seal (device)"
+                    },
+                    "component": [
+                        {
+                            "hanzi": "é¾¹",
+                            "pinyin": "",
+                            "pinyin_tone": 0,
+                            "meaning": "IN_PROGRESS"
+                        }
+                    ],
+                    "etymology_note": {
+                        "character_decomposition": "This was originally used to depict a person kneeling-- perhaps to convey the shape of one kneeling to write.",
+                        "decomposition_notes": "Pictophonetic: Picture of a roll å© . The upper part provides the sound",
+                        "image":[
+                            {
+                               "file_name": "卷_1.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "word_order": 2,
+            "hanzi": "è‡ªå‹•è‡ªç™¼è¨Žè«–",
+            "pinyin": "zÃ¬ dÃ²ng zÃ¬ fÄ tÇŽo lÃ¹n",
+            "measure_word": "",
+            "meaning": "self-motivated and spontaneous",
+            "word_class": "IE",
+            "audio": "zi4_dong4_zi4_fa1.mp3",
+            "sentence": {
+                "hanzi": "zhÃ¨ gÃ¨ hÃ¡i zi zuÃ² shÃ©n me shÃ¬ dÅu zÃ¬ dÃ²ng zÃ¬ fÄ ï¼Œ cÃ³ng lÃ¡i bÃº yÃ o wÇ’ jiÃ o tÄ ã€‚",
+                "pinyin": "é€™å€‹å­©å­åšä»€éº¼äº‹éƒ½è‡ªå‹•è‡ªç™¼ï¼Œå¾žä¾†ä¸è¦æˆ‘å«ä»–ã€‚",
+                "meaning": "This kid will do everything spontaneously and never ask me to call him."
+            },
+            "characters": [
+                {
+                    "id": 1,
+                    "hanzi": "è‡ª",
+                    "pinyin": "zÃ¬",
+                    "pinyin_tone": 4,
+                    "stroke" : 6,
+                    "meaning": "self",
+                    "radical": {
+                        "hanzi": "è‡ª",
+                        "variation": [],
+                        "pinyin": "zÃ¬",
+                        "pinyin_tone": 4,
+                        "meaning": "self"
+                    },
+                    "component": [],
+                    "etymology_note": {
+                        "character_decomposition": "è‡ª originally looked like a nose and it meant nose back in the day. Now, è‡ª is used to mean \"oneself\" (imagine that when you're talking about yourself, you sometimes point at your own nose).",
+                        "decomposition_notes": "Ideograph: Picture of a nose, referring to oneself. Chinese point to their nose when they refer to themselves",
+                        "image":[
+                            {
+                               "file_name": "自_1.png"
+                            },
+                            {
+                               "file_name": "自_2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "hanzi": "å‹•",
+                    "pinyin": "dÃ²ng",
+                    "pinyin_tone": 4,
+                    "stroke" : 11,
+                    "meaning": "to use/to act/to move/to change",
+                    "radical": {
+                        "hanzi": "åŠ›",
+                        "variation": [],
+                        "pinyin": "lÃ¬",
+                        "pinyin_tone": 4,
+                        "meaning": "power"
+                    },
+                    "component": [
+                        {
+                            "hanzi": "é‡",
+                            "pinyin": "zhÃ²ng",
+                            "pinyin_tone": 4,
+                            "meaning": "heavy/serious/to assign importance to"
+                        }
+                    ],
+                    "etymology_note": {
+                        "character_decomposition": "There is a åŠ› \"strength\" in å‹• \"to move\".",
+                        "decomposition_notes": "Pictophonetic: Strength or power åŠ› with heavy é‡ (phonetic)",
+                        "image":[
+                            {
+                               "file_name": "動_1.png"
+                            },
+                            {
+                               "file_name": "動_2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "hanzi": "ç™¼",
+                    "pinyin": "fÄ",
+                    "pinyin_tone": 1,
+                    "stroke" : 12,
+                    "meaning": "to send out/to show (one's feeling)/to issue/to develop",
+                    "radical": {
+                        "hanzi": "ç™¶",
+                        "variation": [],
+                        "pinyin": "bÅ",
+                        "pinyin_tone": 4,
+                        "meaning": "footsteps"
+                    },
+                    "component": [
+                        {
+                            "hanzi": "å¼“",
+                            "pinyin": "gÅng",
+                            "pinyin_tone": 1,
+                            "meaning": "bow"
+                        },
+                        {
+                            "hanzi": "æ®³",
+                            "pinyin": "shÅ«",
+                            "pinyin_tone": 1,
+                            "meaning": "weapon"
+                        }
+                    ],
+                    "etymology_note": {
+                        "character_decomposition": "ç™¼ includes å¼“ \"bow\" as well as  æ®³ \"weapon in hand\". ç™¼ means \"to shoot\", and by extension, it could also mean \"to start an action\".",
+                        "decomposition_notes": "Pictophonetic: Bow å¼“ with phonetic ç™¹",
+                        "image":[
+                            {
+                               "file_name": "發_1.png"
+                            },
+                            {
+                               "file_name": "發_2.png"
+                            }
+                        ]
+                    }
+                },{
+                    "id": 4,
+                    "hanzi": "è¨Ž",
+                    "pinyin": "tÇŽo",
+                    "pinyin_tone": 3,
+                    "stroke" : 10,
+                    "meaning": "to ask for/to discuss or study",
+                    "radical": {
+                        "hanzi": "è¨€",
+                        "variation": [
+                            "è® ",
+                            "è¨"
+                        ],
+                        "pinyin": "yÃ¡n",
+                        "pinyin_tone": 2,
+                        "meaning": "speech"
+                    },
+                    "component": [
+                        {
+                            "hanzi": "å¯¸",
+                            "pinyin": "cÃ¹n",
+                            "pinyin_tone": 4,
+                            "meaning": "inch"
+                        }
+                    ],
+                    "etymology_note": {
+                        "character_decomposition": "è¨Ž means \"to discuss\". It is comprised of è¨€ language. In the past, å¯¸ used to mean è‚˜elbow. Imaginative strategy: Think of how when people talk and discuss, some people move their elbows a lot to give gestures.",
+                        "decomposition_notes": "Ideograph: Ask with words è¨€ and hand å¯¸",
+                        "image":[
+                            {
+                               "file_name": "è¨Ž_1.svg"
+                            },
+                            {
+                               "file_name": "è¨Ž_2.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "hanzi": "è«–",
+                    "pinyin": "lÃ¹n",
+                    "pinyin_tone": 4,
+                    "stroke" : 15,
+                    "meaning": "theory/to discuss/to talk (about)/to discuss",
+                    "radical": {
+                        "hanzi": "è¨€",
+                        "variation": [
+                            "è® ",
+                            "è¨"
+                        ],
+                        "pinyin": "yÃ¡n",
+                        "pinyin_tone": 2,
+                        "meaning": "speech"
+                    },
+                    "component": [
+                        {
+                            "hanzi": "ä¾–",
+                            "pinyin": "lÃºn",
+                            "pinyin_tone": 2,
+                            "meaning": "to arrange"
+                        }
+                    ],
+                    "etymology_note": {
+                        "character_decomposition": "When you discuss a theory, you'd have to use language è¨€.",
+                        "decomposition_notes": "Pictophonetic: discuss è¨€ with ä¾–(phonetic)",
+                        "image":[
+                            {
+                               "file_name": "è«–_1.svg"
+                            },
+                            {
+                               "file_name": "è«–_2.svg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
